@@ -44,8 +44,3 @@ Discovered high-cancellation agents impacting revenue loss
 Analyzed ADR trends across seasons and customer segments
 Found top revenue-generating countries
 Evaluated repeat customer behavior for loyalty strategy
-
-
-Analyzed customer loyalty patterns for retention strategies
-
-Provided insights to improve pricing strategy, agent performance, and operational efficiency

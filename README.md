@@ -1,6 +1,6 @@
 # SQL_Project
 
-Hotel Booking and Reservation System
+Project Name : Hotel Booking and Reservation System
 
 Project Overview :
 This project involves analyzing hotel booking and reservation data using SQL to extract meaningful business insights. The analysis focuses on booking behavior, cancellation trends, pricing patterns (ADR), seasonal demand, and customer segmentation to support data-driven decision-making in hotel operations and revenue management. The analysis showcases strong SQL querying skills, analytical thinking, and the ability to translate raw data into business-ready insights.
